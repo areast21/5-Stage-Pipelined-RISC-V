@@ -1,3 +1,6 @@
+Architecture:
+![image](https://github.com/user-attachments/assets/bcdaf2ce-9f4a-4746-a368-56ae24490b17)
+
 To run: 
 1. chmod +x run_core.sh
 2. ./run_core.sh
