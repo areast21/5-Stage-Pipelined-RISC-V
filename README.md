@@ -1,4 +1,4 @@
-This repository is solely authored and maintained by me (Adithya Ramesh, CPU Design Engineer at Altera Corporation) during my days as a grad student @ WPI, MA. This repository is open sourced under the MIT License. There is no warranty provided and the author is not liable for any damages.
+This repository is solely authored and maintained by Adithya Ramesh, CPU Design Engineer at Altera Corporation during their days as a grad student @ WPI, MA. This repository is open sourced under the MIT License. There is no warranty provided and the author is not liable for any damages.
 
 Architecture:
 ![image](https://github.com/user-attachments/assets/bcdaf2ce-9f4a-4746-a368-56ae24490b17)
